@@ -15,5 +15,11 @@ samples = np.random.binomial(10,0.3,10000)
 
 print("sample mean:", np.mean(samples))
 print("sample variance:", np.var(samples))
-print("theoretical mean:", 3000)
-print("theoretical variance:", 2100)
+print("theoretical mean:", 3)
+print("theoretical variance:", 2.1)
+
+samples = np.random.normal(5,2,10000)
+print("sample mean:", np.mean(samples))
+print("sample variance:", np.var(samples))
+print("theoretical mean:", 5)
+print("theoretical variance:", 4)

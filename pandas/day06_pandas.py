@@ -58,3 +58,10 @@ print(df_clean.sort_values("Age").head(10)[["Name","Sex", "Age"]])
 print(df_clean.describe())
 
 print(df_clean[["Age", "Fare"]].describe())
+
+extra_info = pd.DataFrame({
+    "PassengerId": [1, 2, 3, 4, 5],
+    "Country": ["UK", "US", "France", "UK", "Germany"]
+})
+
+merged = pd.merge(df_clean,extra_info, on="PassengerId")

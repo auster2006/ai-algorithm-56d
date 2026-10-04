@@ -1,0 +1,13 @@
+[33m1692cc5[m[33m ([m[1;32mday6-git-practice[m[33m)[m day6: pandas and sql practice
+ SQL/day06.SQL          |   0
+ leetcodeSQL/175.SQL    |   0
+ leetcodeSQL/181.SQL    |   0
+ leetcodeSQL/182.SQL    |   0
+ leetcodeSQL/183.SQL    |   0
+ leetcodeSQL/196.SQL    |   0
+ leetcodeSQL/197.SQL    |   0
+ leetcodeSQL/584.SQL    |   0
+ leetcodeSQL/595.SQL    |   0
+ pandas/day06_pandas.py |  60 [32m++++[m
+ pandas/titanic.csv     | 892 [32m+++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 11 files changed, 952 insertions(+)

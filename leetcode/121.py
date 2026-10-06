@@ -1,5 +1,5 @@
 def maxProfit(prices):
-    min_price = 1000
+    min_price = float('inf')
     max_profit = 0
     for i in prices:
         if i < min_price:

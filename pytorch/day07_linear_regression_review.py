@@ -28,6 +28,8 @@ for epoch in range(1000):
 
 
 loss = criterion(y_pred,y)
+
+
 print(model.linear.weight.item())
 print(model.linear.bias.item())
 print(loss.item())

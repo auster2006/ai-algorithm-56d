@@ -1,6 +1,6 @@
-AI Algorithm 56-Day Learning Log
+# AI Algorithm Learning Log
 
-目标：系统掌握 Python、机器学习、深度学习、数理统计和算法基础，为 AI 算法实习做准备。
+目标：系统掌握 Python、机器学习、深度学习、数理统计和算法基础，为 AI 算法实习做准备。当前计划承接 Day 1–9，按 Day 10–49 继续；每日安排见 [LEARNING_PLAN.md](LEARNING_PLAN.md)。
 
 记录原则：每天记录学习内容、关键知识点、代码实践和复习重点。
 
@@ -381,3 +381,17 @@ Best Time to Buy and Sell Stock：思路复习
 self 与普通局部变量的区别
 
 为什么 Min Stack 需要保存历史最小值
+
+## Day 10 — 正则化与模型泛化（2026-10-08）
+
+已完成的核心练习：
+
+- 学习 Ridge、Lasso 与正则化；用训练集拟合标准化流程，并计算 Ridge 的训练与验证 MSE。
+- 训练 Lasso 并查看系数；练习训练/验证划分和 Pipeline。
+- 完成 LeetCode 150（逆波兰表达式）和 739（每日温度）的代码练习。
+
+待补：比较多个 alpha 下的验证 MSE，并绘制 alpha–验证 MSE 曲线。当前仓库没有这张图，不将其记为已完成。
+
+## Day 11 — Logistic Regression 从零实现
+
+计划于 2026-10-09 开始；尚无完成记录。

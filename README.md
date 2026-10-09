@@ -8,7 +8,7 @@ The goal is not only to learn the theory, but also to build the ability to **imp
 
 ## Learning Plan
 
-My current learning plan is a **56-day intensive study roadmap**, covering the following areas:
+The original repository name reflects the first 56-day roadmap. The current plan continues the completed Day 1–9 work with a revised **Day 10–49 (40-day) roadmap**. See [LEARNING_PLAN.md](LEARNING_PLAN.md) for the daily index. The focus areas are:
 
 ### 1. Python & Programming Fundamentals
 - Python syntax and data structures
@@ -69,12 +69,15 @@ ai-algorithm-56d/
 ├── python_basics/      # Python practice
 ├── numpy/              # NumPy exercises
 ├── pandas/             # Pandas and data analysis
+├── sklearn/            # Scikit-learn practice
 ├── pytorch/            # PyTorch and deep learning
 ├── leetcode/           # Algorithm problems
 ├── leetcodeSQL/        # SQL problems
 ├── SQL/                # SQL learning notes
 ├── notes/              # Learning notes and error summaries
 ├── projects/           # Practical projects
+├── LEARNING_LOG.md      # Actual learning record
+├── LEARNING_PLAN.md     # Revised Day 10–49 index
 └── README.md
 ```
 
@@ -90,7 +93,7 @@ I try to follow several principles throughout this journey:
 
 ## Progress
 
-This repository will be continuously updated as I progress through the 56-day learning plan.
+As of 2026-10-08, Days 1–9 are documented in [LEARNING_LOG.md](LEARNING_LOG.md). Day 10 core exercises have been completed; the alpha–validation MSE comparison curve remains to be drawn. Day 11 is scheduled to start on 2026-10-09. Days 11–49 are planned, not completed.
 
 Each stage records not only completed exercises, but also the concepts I learned, mistakes I made, and improvements in my implementation skills.
 
